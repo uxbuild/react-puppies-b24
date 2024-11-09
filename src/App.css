@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+/* added */
+.pup-detail {
+  background-color: orange;
+  padding: 0 .5em .5em;
+}
+.pup-detail-list {
+  list-style-type: none;
+  display: contents;
+  text-align: left;
+}
+
+#root {
+  background-color: purple;
+}
+.App {
+  background-color: white;
+  padding: 1em;
+}
+
+.pup-name:hover {
+  cursor: pointer;
+}
+
